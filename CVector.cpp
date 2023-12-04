@@ -1,4 +1,4 @@
-#include "include/CVector.h"
+#include "CVector.h"
 #include <cmath>
 #include <cstdlib>
 #include <vector>
